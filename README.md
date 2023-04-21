@@ -33,7 +33,7 @@ ___
 ## 🎨 Layout
 A capa da página é vista na imagem abaixo:
 
-[Capa](https://user-images.githubusercontent.com/106932234/233644231-bb94a239-bab0-4c7e-87b8-86a8788a4ac1.png)
+![Capa](https://user-images.githubusercontent.com/106932234/233644231-bb94a239-bab0-4c7e-87b8-86a8788a4ac1.png)
 
 ___
 
